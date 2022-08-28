@@ -1,7 +1,7 @@
 ﻿' początek: maj 2018, ale praktycznie nic nie zrobione - tylko wstepnie struktura danych
 ' wstepna działająca struktura danych: sierpien 2021
 
-
+' *TODO* hierarchia celów, czyli ich kolejnosc (do prezentowania, ale i potem - realizacja celu ranga=2 nie moze byc wbrew celowi ranga = 1, choc moze byc wbrew celowi ranga=3
 
 Public NotInheritable Class MainPage
     Inherits Page
